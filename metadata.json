@@ -1,0 +1,6 @@
+{
+  "name": "KDS Master - Painel de Cozinha",
+  "description": "Painel de Cozinha (KDS) em tempo real para controle de pedidos de autoatendimento, gestão de status e sincronização com Supabase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
